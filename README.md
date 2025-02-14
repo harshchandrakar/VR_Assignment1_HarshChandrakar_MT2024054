@@ -71,6 +71,9 @@ python3 part1.py
 ![Coin Segmentation](/image/result_part1/segmentation.png)
 *Figure 2: segmentation and masking*
 
+![number of coins](/image/result_part1/result.png)
+*Figure 3: Number of coins detected*
+
 The script generates multiple visualizations:
 - Original image with detected coins outlined in green
 - Edge detection result
