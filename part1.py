@@ -73,5 +73,5 @@ def detect_and_count_coins(image_path):
 
 
 if __name__ == "__main__":
-    image_path = "./image/coins.jpg"
+    image_path = "image/part1/coins.jpg"
     count, outlined_image, segmentation = detect_and_count_coins(image_path)
